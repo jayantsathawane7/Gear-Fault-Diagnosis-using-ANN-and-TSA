@@ -1,0 +1,1 @@
+# Gear-Fault-Diagnosis-using-ANN-and-TSA
